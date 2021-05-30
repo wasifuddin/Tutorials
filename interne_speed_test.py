@@ -1,4 +1,4 @@
-# pip install speedtest_cli
+# pip install speedtest-cli
 import speedtest
 st = speedtest.Speedtest()
 dn_speed = st.download()/1000000
